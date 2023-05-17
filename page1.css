@@ -1,0 +1,364 @@
+/*Itambarany style*/
+#a11{
+    color: orangered;
+    font-size: initial;
+    margin-left: 40px;
+}
+#a11:hover{
+    color: grey;
+}
+.h111{
+    text-align: center;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/*header*/
+
+header{
+    width: 1670px;
+    height: 200px;
+    border: solid transparent;
+}
+#titre{
+    float: left;
+}
+.titre{
+    font-family: cursive;
+    font-size:  60px;
+    margin-left: 50px;
+    margin-left: 30px;
+    color: rgb(41, 40, 40)
+}
+#sp0{
+    color: rgb(41, 40, 40);
+}
+#sp0:hover{
+    color: orangered;
+}
+header p{
+    font-size: 22px;
+    margin-left: 60px;
+}
+#entrer{
+    float: right;
+}
+#inputa{
+    width: 140px;
+    height: 40px;
+    border-radius: 15px;
+    font-size: 18px;
+    background-color: orangered;
+    margin-top: 70px;
+    margin-right: 30px;
+    border-color: orangered;
+}
+#inputa:hover{
+    color: whitesmoke;
+}
+a{
+    font-weight: bold;
+    font-size: 30px;
+    color: black;
+    margin-right: 20px;
+}
+
+
+/*style*/
+
+#style{
+    float: left;
+    width: 1080px;
+    height: 720px;
+    background-image: url('123.jpg');
+    background-position: bottom;
+    border-radius: 5px;
+    border: solid whitesmoke;
+}
+#h10{
+    float: left;
+    font-size: 40px;
+    color: white;
+    margin-left: 170px;
+    margin-top: 30px;
+}
+section h3{
+    float: left;
+    font-size: 35px;
+    color: white;
+    margin-left: 180px;
+    margin-top: 400px;
+}
+
+/*style2*/
+
+#style2 {
+    width: 590px;
+    height: 420px;
+    background-image: url("654.jpg");
+    background-size: 600px;
+    margin-left: 1080px; 
+    border: solid whitesmoke;
+    border-radius: 5px;
+}
+
+/*style3*/
+
+#style3{
+    width: 595px;
+    height: 295px;
+    background-image: url("FLOU.jpg");
+    background-position: bottom;
+    background-size: 600px;
+    margin-left: 1080px;
+}
+
+/*style4*/
+
+#style4{
+    height: 500px;
+    margin-top: 40px;
+    border: solid transparent;
+}
+#h11{
+    color: black; 
+    font-size: 25px;   
+}
+
+#style4 ul li{
+    width: 400px;
+    float: left;
+}
+.h11{
+    text-align: center;
+}
+.p11{
+    text-align: center;
+}
+.cl11{
+    list-style: none;
+}
+.cl111{
+    list-style: inside;
+    margin-left: 50px;
+}
+#sp1{
+    width: 180px;
+    height: 180px;
+    margin-left: 70px;
+}
+
+/*style5*/
+
+#style5{
+    width: 1600px;
+    height: 550px;
+    background-color: whitesmoke;
+    border: solid transparent;
+    border-radius: 15px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+#style5 ul li{
+    float: left;
+    width: 450px;;
+}
+#a111{
+    color: orangered;
+    font-size: initial;
+    margin-left: 100px;
+}
+#a111:hover{
+    color: grey;
+}
+.h1111{
+    margin-left: 30px;
+}
+.h11111{
+    text-align: center;
+}
+.cl12{
+    list-style: none;
+}
+#ex1{
+    border-radius: 30px;
+    margin-left: 50px;
+    border: solid 3px darkgray;
+}
+#pex1{
+    text-align: center;
+}
+#image{
+    width: 440px;
+    height: 200px;
+    border-radius: 30px;
+    margin-left: 5px;
+}
+#sp11{
+    color: grey;
+}
+#sp11:hover{
+    color: orangered;
+}
+
+/*style6*/
+
+#style6{
+    margin-top: 40px;
+    width: 1675px;
+    height: 670px;
+}
+.photo{
+    float: left;
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+#titre1{
+    float: left;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+#li1{
+    float: left;
+    width: 380px;
+    border: solid 1px transparent;
+    list-style: none;
+    margin-left: 20px;
+    text-align: center;
+}
+#pi1{
+    margin-top: 100px;
+}
+#di1{
+    width: 360px;
+    height: 230px;
+    border-radius: 10px;
+}
+#pi2{
+    margin-top: 200px;
+}
+
+/*style7*/
+
+#style7{
+    width: 1675px;
+    height: 750px;
+    background-color: whitesmoke;
+    border: solid transparent;
+    border-radius: 10px;
+}
+#li7{
+    list-style: none;
+}
+#li70{
+    float: left;
+    width: 470px;
+    height: 500px;
+    border: solid grey 3px;
+    border-radius: 30px;
+    margin-left: 40px;
+}
+#li71{
+    margin-top: 30px;
+}
+.h70{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: grey;
+}
+.p70{
+    text-align: center;
+}
+#li71{
+    margin-left: 140px;
+    margin-top: 04px;
+}
+#nav{
+    float: right;
+    margin-top: 27px;
+    margin-right: 810px;
+}
+#txt70{
+    margin-left: 20px;
+    border-radius: 4px;
+    height: 30px;
+    width: 340px;
+    background-color: transparent;
+    font-size: 15px;
+}
+#sub1{
+    margin-top: 0px;
+    margin-right: 55px;
+    float: right;
+    width: 45px;
+    height: 37px;
+    background-color: grey;
+    font-size: 27px;
+}
+#mad{
+    margin-left: 180px;
+    margin-top: 30px;
+    width: 100px;
+    height: 30px;
+    background-color: orangered;
+}
+#inpo{
+    margin-top: 0px;
+    width: 180px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: transparent;
+    color: black;
+}
+#list{
+    width: 185px;
+    height: 38px;
+    border-radius: 5px;
+    color: black;
+}
+#dov{
+    margin-left: 10px;
+    width: 450px;
+    height: 300px;
+    background-color: white;
+    border: solid 1px transparent;
+    border-radius: 30px;
+}
+#dev{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+#table{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.pig{
+    background-color: white;
+    color: black;
+}
+.pig:hover{
+    background-color: orangered;
+}
+.eto{
+    color: black;
+}
+.eto:hover{
+    color: orangered;
+}
+/*footer*/
+
+#footer{
+    margin-top: 20px;
+    width: 1675px;
+    height: 250px;
+    border: solid transparent;
+}
+#titref{
+    margin-left: 580px;
+}
+#lela{
+    margin-left: 670px;
+}
